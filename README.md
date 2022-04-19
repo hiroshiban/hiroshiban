@@ -1,12 +1,14 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-18 21:47:54 ban"
+Last Update: "2022-04-19 10:52:10 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
 
 Japanese version of README.md is available from [here.](README_ja.md)  
 日本語版 README.mdは[こちら](README_ja.md)  
+
+![](https://komarev.com/ghpvc/?username=hiroshiban&color=00ddff&label=Profile+Views+Since+2022-04-19)  
 
 - **⌚ Born on April 5th**  
 - **⛪ From Ichinomiya(Bisai) City, Aichi Prefecture, Japan**  
@@ -35,6 +37,7 @@ Recently, we have been further investigating human visual perception and cogniti
 - **Research Strategy and Environment:** Each member is expected to work on his/her own research theme, but I don't want to isolate individual projects (I mean that you will not be solely responsible for your own research alone); ideally, I would like to establish a system in which you and the other students/researchers work flexibly and cooperatively with each other. The research group will provide all the necessary space (desks), computers (PCs), experimental and measurement equipment, and stimulus presentation equipment for conducting research. In spite of the current severe situation where budgets for basic research are continuously being cut, our research group will make every effort to cover at least the expenses necessary to carry out experiments.  
 - **Finally**, if you have any questions, please do not hesitate and feel free to contact us anytime. We really look forward to meeting our future students and collaborators.  
 
+
 ![BinocularViewingDevice](images/02_lab_setups_01_binocular_presentation.png)  
 *Despite advances in "imaging" technology, there is no difference in the basic structure between the left and right devices! For 150 years, only binocular disparity cues have been used to present stereoscopic images. There has been no innovation in terms of the use of stereoscopic cues. If we can somehow make better use of other stereoscopic cues, we may be able to provide a new technology to present more robust and more realistic stereoscopic images/movies at a lower cost. To achieve this goal, it is necessary to clarify what humans perceive and feel through vision and unveil the underlying neural mechanisms.*  
 
@@ -49,6 +52,44 @@ Our group has been looking for people who are willing to participate in our rese
 - **[SONA, Experiment Registration System](https://nict-cinet.sona-systems.com)**  
 - **[SONA YouTube Manual](https://www.youtube.com/watch?v=_1OnT2ZU6QQ&ab_channel=SonaSystems)**  
 
+
+## Recommended readings for our future students and post-doc researchers  
+
+***Classics, but like Shakespeare, it will never fade away; we should never miss them.***  
+1. Marr, D. (2010). Vision: A computational investigation into the human representation and processing of visual information. MIT press.  
+2. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
+   Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
+3. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
+4. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
+
+***Psychology, neuroscience, and neuroimaging***  
+1. Gazzaniga, M.S., Irvy, R.B., Mangun, G.R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W W Norton & Co Inc.  
+2. Huettel, S.A., Song, A.W., McCarthy, G. (2014). *Functional Magnetic Resonance Imaging*. Sinauer.  
+3. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
+
+***Japanese books***  
+1. Fujita, I., (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
+2. Ikegaya, Y., (2013). 単純な脳、複雑な「私」. 講談社.  
+
+***Papers***  
+1. Cohen, M.A., Botch, T.L., Robertson, C.E. (2020). The limits of color awareness during active, real-world vision. ***Proceedings of the National Academy of Sciences***, 117(24), 13821-13827.  
+2. Zhou, C., Han, M., Liang, Q., Hu, Y.F., Kuai, S.G. (2019). A social interaction field model accurately identifies static and dynamic social groupings. ***Nature human behaviour***, 3(8), 847-855.  
+3. Glasser, M.F., Coalson, T.S., Robinson, E.C., Hacker, C.D., Harwell, J., Yacoub, E., ... Van Essen, D.C. (2016). A multi-modal parcellation of human cerebral cortex. ***Nature***, 536(7615), 171-178.  
+4. Welchman, A.E. (2016). The human brain in depth: how we see in 3D. ***Annual review of vision science***, 2, 345-376.  
+5. Cichy, R.M., Pantazis, D., Oliva, A. (2014). Resolving human object recognition in space and time. ***Nature neuroscience***, 17(3), 455-462.  
+6. Orban, G.A. (2011). The extraction of 3D shape in the visual system of human and nonhuman primates. ***Annual review of neuroscience***, 34, 361-388.  
+7. Kriegeskorte, N., Simmons, W. K., Bellgowan, P. S., & Baker, C. I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature neuroscience***, 12(5), 535-540.  
+8. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in systems neuroscience***, 2, 4.  
+9. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
+10. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in cognitive sciences***, 10(1), 14-23.  
+11. Roelfsema, P.R. (2006). Cortical algorithms for perceptual grouping. ***Annu. Rev. Neurosci.***, 29, 203-227.  
+12. Kamitani, Y., Tong, F. (2005). Decoding the visual and subjective contents of the human brain. ***Nature neuroscience***, 8(5), 679-685.  
+13. Kourtzi, Z., Kanwisher, N. (2001). Representation of perceived object shape by the human lateral occipital complex. ***Science***, 293(5534), 1506-1509.  
+14. Kanwisher, N., McDermott, J., Chun, M.M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. ***Journal of neuroscience***, 17(11), 4302-4311.  
+15. Sereno, M.I., Dale, A.M., Reppas, J.B., Kwong, K.K., Belliveau, J.W., Brady, T.J., ... Tootell, R.B.H. (1995). Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. ***Science***, 268(5212), 889-893.  
+16. Ohzawa, I., DeAngelis, G.C., & Freeman, R.D. (1990). Stereoscopic depth discrimination in the visual cortex: neurons ideally suited as disparity detectors. ***Science***, 249(4972), 1037-1041.  
+
+Please also check our publications listed below to know what we are doing.  
 
 ## Selected Publications  
 
@@ -65,7 +106,7 @@ You can download the developed software from here: https://github.com/hiroshiban
 9. Ban, H., Yamamoto, H., Hanakawa, T., Urayama, S., Aso, T., Fukuyama, H., Ejima, Y. (2013). Topographic processing of an occluded object and the effects of spatiotemporal contexts in human early visual areas. ***The Journal of Neuroscience***, 33(43): 16992-17002. [[Link](https://www.jneurosci.org/content/33/43/16992)]  
 10. Ban, H., Preston, T.J., Meeson, A., Welchman, A.E. (2012). The integration of motion and disparity cues to depth in the dorsal visual cortex. ***Nature Neuroscience***, 15(4), 636-643. *The contents of the publication was highlighted in "NEWS & VIEWS" in Nature Neuroscience 15(4).* [[Link](https://www.nature.com/articles/nn.3046)]  
 Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
-11. Ban, H., Yamamoto, H., Fukunaga, M., Nakagoshi, A., Umeda, M., Tanaka, C., & Ejima, Y. (2006). Toward a common circle: interhemispheric contextual modulation in human early visual areas. ***The Journal of Neuroscience***, 26(34), 8804-8809. *Selected as "This Week in the Journal" paper.* [[Link](https://www.jneurosci.org/content/26/34/8804)]  
+11. Ban, H., Yamamoto, H., Fukunaga, M., Nakagoshi, A., Umeda, M., Tanaka, C., Ejima, Y. (2006). Toward a common circle: interhemispheric contextual modulation in human early visual areas. ***The Journal of Neuroscience***, 26(34), 8804-8809. *Selected as "This Week in the Journal" paper.* [[Link](https://www.jneurosci.org/content/26/34/8804)]  
 
 ![fMRI_analysis_01](images/03_analysis_01_slant.png)  
 *Local binocular disparity cues are gradually integrated to represent surface slants/tilts along the presumed dorsal cortical hierarchy (Ban & Welchman 2015).*  
