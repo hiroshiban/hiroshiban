@@ -55,7 +55,7 @@ Our group has been looking for people who are willing to participate in our rese
 
 ## Recommended readings for our future students and post-doc researchers  
 
-***Classics, but like Shakespeare, they will never fade away; we should never miss them.***  
+***Classics, but like Shakespeare, they will never fade away; we should follow them first.***  
 1. Marr, D. (2010). Vision: A computational investigation into the human representation and processing of visual information. MIT press.  
 2. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
    Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
