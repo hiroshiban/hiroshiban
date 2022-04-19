@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-19 10:52:10 ban"
+Last Update: "2022-04-19 10:56:30 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -68,8 +68,9 @@ Our group has been looking for people who are willing to participate in our rese
 3. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
 
 ***Japanese books***  
-1. Fujita, I., (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
-2. Ikegaya, Y., (2013). 単純な脳、複雑な「私」. 講談社.  
+1. 福山秀直 監訳, (2016). fMRI. メディカルサイエンスインターナショナル  
+2. 藤田一郎, (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
+3. 池谷裕二, (2013). 単純な脳、複雑な「私」. 講談社.  
 
 ***Papers***  
 1. Cohen, M.A., Botch, T.L., Robertson, C.E. (2020). The limits of color awareness during active, real-world vision. ***Proceedings of the National Academy of Sciences***, 117(24), 13821-13827.  
