@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-19 10:56:32 ban"
+Last Update: "2022-04-19 15:09:28 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -66,9 +66,9 @@ English version of README.md is available from [here.](https://github.com/hirosh
 3. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
 
 ***日本語の本***  
-1. 福山秀直 監訳, (2016). fMRI. メディカルサイエンスインターナショナル  
-2. 藤田一郎, (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
-3. 池谷裕二, (2013). 単純な脳、複雑な「私」. 講談社.  
+1. 福山秀直 監訳. (2016). fMRI. メディカルサイエンスインターナショナル.  
+2. 藤田一郎. (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
+3. 池谷裕二. (2013). 単純な脳、複雑な「私」. 講談社.  
 
 ***論文***  
 1. Cohen, M.A., Botch, T.L., Robertson, C.E. (2020). The limits of color awareness during active, real-world vision. ***Proceedings of the National Academy of Sciences***, 117(24), 13821-13827.  
