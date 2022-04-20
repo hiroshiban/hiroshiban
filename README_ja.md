@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-21 07:21:22 ban"
+Last Update: "2022-04-21 07:29:07 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -77,7 +77,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 5. Gamma, J., Helm, E., Johnson, R., Vlissides, R. (2014). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley Professional.  
 
 ***日本語の本***  
-1. G. ブザーキ. (2019). 脳のリズム. みすず書房.  
+1. ブザーキ, G. (2019). 脳のリズム. みすず書房.  
 2. 福山秀直 監訳. (2016). fMRI. メディカルサイエンスインターナショナル.  
 3. 藤田一郎. (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
 4. ノーマン, D.A. (2015). 誰のためのデザイン？ 増補・改訂版 ―認知科学者のデザイン原論. 新曜社.  

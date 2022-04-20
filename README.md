@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-21 07:21:28 ban"
+Last Update: "2022-04-21 07:29:19 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -79,7 +79,7 @@ Our group has been looking for people who are willing to participate in our rese
 5. Gamma, J., Helm, E., Johnson, R., Vlissides, R. (2014). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley Professional.  
 
 ***Japanese books***  
-1. G. ブザーキ. (2019). 脳のリズム. みすず書房.  
+1. ブザーキ, G. (2019). 脳のリズム. みすず書房.  
 2. 福山秀直 監訳. (2016). fMRI. メディカルサイエンスインターナショナル.  
 3. 藤田一郎. (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
 4. ノーマン, D.A. (2015). 誰のためのデザイン？ 増補・改訂版 ―認知科学者のデザイン原論. 新曜社.  
