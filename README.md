@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-19 15:09:22 ban"
+Last Update: "2022-04-21 07:21:28 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -34,7 +34,7 @@ Recently, we have been further investigating human visual perception and cogniti
 - **Research Theme:** Our research group has been looking for people who are interested in exploring the wonders of the human brain, especially visual information processing mechanisms. While stereoscopic vision and VR are listed in the Self-Introduction above as our main research themes, we are open to other topics as well, as long as they are interesting! It is preferred if applicants have any research experience in the fields of psychology, neuroscience, or information science, but we do not seriously require any detailed background. Rather, it is more essential that you are not afraid of programming, etc. (No experience is necessary, but your ***interest*** is important) and that you have ***passion***. Please do not hesitate to contact us.  
 - **Research Target:** For those who are interested in modalities other than vision and who wish to pursue them, I am so sorry but I am afraid that I may not be able to provide appropriate guidance due to my limited knowledge and experience. Nevertheless, if you have a strong will to pursue your own research topic, even when you have to do it by yourself with lesser supports, if you need our research facilities and environment to pursue them, and if we can offer you some benefits, we will be happy to assist you.  
 - **Language Skill:** The ability to communicate smoothly with other people in Japanese is desirable, but is not necessarily. We are happy to assist people who can only speak English with the help of our research assistants who can fluently translate between English and Japanese. If you are thus able to communicate at least in English, please do not worry at all about your Japanese language communication skills.  
-- **Research Strategy and Environment:** Each member is expected to work on his/her own research theme, but I don't want to isolate individual projects (I mean that you will not be solely responsible for your own research alone); ideally, I would like to establish a system in which you and the other students/researchers work flexibly and cooperatively with each other. The research group will provide all the necessary space (desks), computers (PCs), experimental and measurement equipment, and stimulus presentation equipment for conducting research. In spite of the current severe situation where budgets for basic research are continuously being cut, our research group will make every effort to cover at least the expenses necessary to carry out experiments.  
+- **Research Strategy and Environment:** Each member is expected to work on his/her own research theme, but I don't want to isolate individual projects (I mean that you will not be solely responsible for your own research alone); ideally, I would like to establish a system in which you and the other students/researchers work flexibly and cooperatively with each other. The research group will provide all the necessary spaces (your own desk and places for discussion etc), computers (PCs), hardwares/softwares for stimulus presentation and  response-etc measurement devices for your research projects. In spite of the current severe situation where budgets for basic research are continuously being cut, our research group will make every effort to cover at least the expenses necessary to carry out experiments.  
 - **Finally**, if you have any questions, please do not hesitate and feel free to contact us anytime. We really look forward to meeting our future students and collaborators.  
 
 
@@ -56,39 +56,61 @@ Our group has been looking for people who are willing to participate in our rese
 ## Recommended readings for our future students and post-doc researchers  
 
 ***Classics, but like Shakespeare, they will never fade away; we should follow them first.***  
-1. Marr, D. (2010). Vision: A computational investigation into the human representation and processing of visual information. MIT press.  
-2. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
+1. Gibson, J.J. (2014, original one is published in 1979). *The Ecological Approach to Visual Perception*. Routledge.  
+2. Marr, D. (2010, original one is published in 1982). *Vision: A computational investigation into the human representation and processing of visual information*. MIT press.  
+3. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
    Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
-3. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
-4. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
+4. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
+5. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
 
 ***Psychology, neuroscience, and neuroimaging***  
 1. Gazzaniga, M.S., Irvy, R.B., Mangun, G.R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W W Norton & Co Inc.  
 2. Huettel, S.A., Song, A.W., McCarthy, G. (2014). *Functional Magnetic Resonance Imaging*. Sinauer.  
-3. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
+3. Gibson, J.J. (2014). *The Ecological Approach to Visual Perception: Classic Edition*. Psychology Press.  
+4. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
+5. Palmer, S.E. (1999). *Vision Science: Photons to Phenomenology*. Bradford Books.  
+
+***Programming skills for vision science***
+1. Cohen, M.X. (2017). *MATLAB for Brain and Cognitive Scientists*. MIT Press.  
+2. Patterson, J. (2017). *Deep Learning: A Practitioner's Approach*. O'Reilly Media.  
+3. VanderPlas, J. (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. O'Reilly Media.  
+   Publicly available now from the link [here](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+4. Wallisch et al. (2013). *MATLAB for Neuroscientists: An Introduction to Scientific Computing in MATLAB*. Academic Press.  
+5. Gamma, J., Helm, E., Johnson, R., Vlissides, R. (2014). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley Professional.  
 
 ***Japanese books***  
-1. 福山秀直 監訳. (2016). fMRI. メディカルサイエンスインターナショナル.  
-2. 藤田一郎. (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
-3. 池谷裕二. (2013). 単純な脳、複雑な「私」. 講談社.  
+1. G. ブザーキ. (2019). 脳のリズム. みすず書房.  
+2. 福山秀直 監訳. (2016). fMRI. メディカルサイエンスインターナショナル.  
+3. 藤田一郎. (2015). 脳がつくる3D世界:立体視のなぞとしくみ. 化学同人.  
+4. ノーマン, D.A. (2015). 誰のためのデザイン？ 増補・改訂版 ―認知科学者のデザイン原論. 新曜社.  
+5. 池谷裕二. (2013). 単純な脳、複雑な「私」. 講談社.  
+6. ギブソン, J.J. (2011). 生態学的知覚システム―感性をとらえなおす. 東京大学出版会  
+7. パーカー, A. (2006). 眼の誕生――カンブリア紀大進化の謎を解く. 草思社.  
+8. グレゴリー, R. (2001). 脳と視覚ーグレゴリーの視覚心理学. ブレーン出版.  
+9. 下条信輔. (1996). サブリミナル・マインド. 中央公論新社.  
+10. ゼキ, S. (1995). 脳のビジョン. 医学書院.  
 
 ***Papers***  
 1. Cohen, M.A., Botch, T.L., Robertson, C.E. (2020). The limits of color awareness during active, real-world vision. ***Proceedings of the National Academy of Sciences***, 117(24), 13821-13827.  
-2. Zhou, C., Han, M., Liang, Q., Hu, Y.F., Kuai, S.G. (2019). A social interaction field model accurately identifies static and dynamic social groupings. ***Nature human behaviour***, 3(8), 847-855.  
-3. Glasser, M.F., Coalson, T.S., Robinson, E.C., Hacker, C.D., Harwell, J., Yacoub, E., ... Van Essen, D.C. (2016). A multi-modal parcellation of human cerebral cortex. ***Nature***, 536(7615), 171-178.  
-4. Welchman, A.E. (2016). The human brain in depth: how we see in 3D. ***Annual review of vision science***, 2, 345-376.  
-5. Cichy, R.M., Pantazis, D., Oliva, A. (2014). Resolving human object recognition in space and time. ***Nature neuroscience***, 17(3), 455-462.  
-6. Orban, G.A. (2011). The extraction of 3D shape in the visual system of human and nonhuman primates. ***Annual review of neuroscience***, 34, 361-388.  
-7. Kriegeskorte, N., Simmons, W. K., Bellgowan, P. S., & Baker, C. I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature neuroscience***, 12(5), 535-540.  
-8. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in systems neuroscience***, 2, 4.  
-9. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
-10. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in cognitive sciences***, 10(1), 14-23.  
-11. Roelfsema, P.R. (2006). Cortical algorithms for perceptual grouping. ***Annu. Rev. Neurosci.***, 29, 203-227.  
-12. Kamitani, Y., Tong, F. (2005). Decoding the visual and subjective contents of the human brain. ***Nature neuroscience***, 8(5), 679-685.  
-13. Kourtzi, Z., Kanwisher, N. (2001). Representation of perceived object shape by the human lateral occipital complex. ***Science***, 293(5534), 1506-1509.  
-14. Kanwisher, N., McDermott, J., Chun, M.M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. ***Journal of neuroscience***, 17(11), 4302-4311.  
-15. Sereno, M.I., Dale, A.M., Reppas, J.B., Kwong, K.K., Belliveau, J.W., Brady, T.J., ... Tootell, R.B.H. (1995). Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. ***Science***, 268(5212), 889-893.  
-16. Ohzawa, I., DeAngelis, G.C., & Freeman, R.D. (1990). Stereoscopic depth discrimination in the visual cortex: neurons ideally suited as disparity detectors. ***Science***, 249(4972), 1037-1041.  
+2. Zhou, C., Han, M., Liang, Q., Hu, Y.F., Kuai, S.G. (2019). A social interaction field model accurately identifies static and dynamic social groupings. ***Nature Human Behaviour***, 3(8), 847-855.  
+3. Chang, L., Tsao, D.Y. (2017). The code for facial identity in the primate brain. ***Cell***, 169(6), 1013-1028.  
+4. Yamins, D.L., DiCarlo, J.J. (2016). Using goal-driven deep learning models to understand sensory cortex. ***Nature Neuroscience***, 19(3), 356-365.  
+5. Glasser, M.F., Coalson, T.S., Robinson, E.C., Hacker, C.D., Harwell, J., Yacoub, E., ... Van Essen, D.C. (2016). A multi-modal parcellation of human cerebral cortex. ***Nature***, 536(7615), 171-178.  
+6. Welchman, A.E. (2016). The human brain in depth: how we see in 3D. ***Annual Review of Vision Science***, 2, 345-376.  
+7. Banks, M.S., Hoffman, D.M., Kin, J., Wetzstein, G. (2016). 3D Displays. ***Annual Review of Vision Science***, 2, 397-435.  
+8. LeCun, Y., Bengio, Y., Hinton, G. (2015). Deep learning. ***Nature***, 521(7553), 436-444.  
+9. Cichy, R.M., Pantazis, D., Oliva, A. (2014). Resolving human object recognition in space and time. ***Nature Neuroscience***, 17(3), 455-462.  
+10. Orban, G.A. (2011). The extraction of 3D shape in the visual system of human and nonhuman primates. ***Annual Review of Neuroscience***, 34, 361-388.  
+11. Kriegeskorte, N., Simmons, W. K., Bellgowan, P. S., & Baker, C. I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature Neuroscience***, 12(5), 535-540.  
+12. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in Systems Neuroscience***, 2, 4.  
+13. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
+14. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
+15. Roelfsema, P.R. (2006). Cortical algorithms for perceptual grouping. ***Annual Review of Neuroscience***, 29, 203-227.  
+16. Kamitani, Y., Tong, F. (2005). Decoding the visual and subjective contents of the human brain. ***Nature Neuroscience***, 8(5), 679-685.  
+17. Kourtzi, Z., Kanwisher, N. (2001). Representation of perceived object shape by the human lateral occipital complex. ***Science***, 293(5534), 1506-1509.  
+18. Kanwisher, N., McDermott, J., Chun, M.M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. ***The Journal of Neuroscience***, 17(11), 4302-4311.  
+19. Sereno, M.I., Dale, A.M., Reppas, J.B., Kwong, K.K., Belliveau, J.W., Brady, T.J., ... Tootell, R.B.H. (1995). Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. ***Science***, 268(5212), 889-893.  
+20. Ohzawa, I., DeAngelis, G.C., Freeman, R.D. (1990). Stereoscopic depth discrimination in the visual cortex: neurons ideally suited as disparity detectors. ***Science***, 249(4972), 1037-1041.  
 
 Please also check our publications listed below to know what we are doing.  
 
