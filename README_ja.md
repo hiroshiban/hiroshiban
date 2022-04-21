@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-21 09:19:10 ban"
+Last Update: "2022-04-21 09:24:13 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -62,7 +62,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 5. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
 
 ***心理学、神経科学、脳イメージング***  
-1. Kandel, E.R., Koester, J.D., Mack, S.H., Siegelbausm, S.A. eds (2021). *Principles of Neural Science*. Psychology Press.  
+1. Kandel, E.R., Koester, J.D., Mack, S.H., Siegelbausm, S.A. eds (2021). *Principles of Neural Science*. McGraw-Hill.  
 2. Gazzaniga, M.S., Irvy, R.B., Mangun, G.R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W W Norton & Co Inc.  
 3. Huettel, S.A., Song, A.W., McCarthy, G. (2014). *Functional Magnetic Resonance Imaging*. Sinauer.  
 4. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
