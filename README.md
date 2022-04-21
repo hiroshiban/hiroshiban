@@ -56,8 +56,8 @@ Our group has been looking for people who are willing to participate in our rese
 ## Recommended readings for our future students and post-doc researchers  
 
 ***Classics, but like Shakespeare, they will never fade away; we should follow them first.***  
-1. Gibson, J.J. (2014, original one is published in 1979). *The Ecological Approach to Visual Perception*. Routledge.  
-2. Marr, D. (2010, original one is published in 1982). *Vision: A computational investigation into the human representation and processing of visual information*. MIT press.  
+1. Gibson, J.J. (2014, the original one was published in 1979). *The Ecological Approach to Visual Perception*. Routledge.  
+2. Marr, D. (2010, the original one was published in 1982). *Vision: A computational investigation into the human representation and processing of visual information*. MIT press.  
 3. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
    Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
 4. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
