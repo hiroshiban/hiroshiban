@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-21 09:24:13 ban"
+Last Update: "2022-04-23 23:06:43 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -13,7 +13,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 - **⛪ 愛知県一宮市(旧尾西市)出身**  
 - **🌏 住んだことのある街: 愛知、東京、京都、大阪、奈良、バーミンガム(英国)**  
 - **🛴 研究キーワード: 心理学、神経科学、fMRI、MEG、心理物理学、視覚、立体視、奥行き、3D、バーチャルリアリティ、VR、知覚、認知、手掛かり統合、形態知覚**  
-- **☕ 好きなもの: カレー(CoCo壱番屋本社は私が生まれた市にあるんです)、スパゲティ、ラーメン(神座が大好きです)、BBQ(焼肉ならワンカルビです)、飲茶、サラダ、コーヒー、烏龍茶、プーアル茶、自転車、旅行、観光、映画鑑賞**  
+- **☕ 好きなもの: カレー(CoCo壱番屋本社は私が生まれた街にあるんです)、スパゲティ、ラーメン(神座が大好きです)、BBQ(焼肉ならワンカルビです)、飲茶、サラダ、コーヒー、烏龍茶、プーアル茶、自転車、旅行、観光、映画鑑賞**  
 
 ![SelfIntroduction](images/01_self_introduction.gif)
 
@@ -99,7 +99,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 8. LeCun, Y., Bengio, Y., Hinton, G. (2015). Deep learning. ***Nature***, 521(7553), 436-444.  
 9. Cichy, R.M., Pantazis, D., Oliva, A. (2014). Resolving human object recognition in space and time. ***Nature Neuroscience***, 17(3), 455-462.  
 10. Orban, G.A. (2011). The extraction of 3D shape in the visual system of human and nonhuman primates. ***Annual Review of Neuroscience***, 34, 361-388.  
-11. Kriegeskorte, N., Simmons, W. K., Bellgowan, P. S., & Baker, C. I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature Neuroscience***, 12(5), 535-540.  
+11. Kriegeskorte, N., Simmons, W.K., Bellgowan, P.S., Baker, C.I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature Neuroscience***, 12(5), 535-540.  
 12. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in Systems Neuroscience***, 2, 4.  
 13. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
 14. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
