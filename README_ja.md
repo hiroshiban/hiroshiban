@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-24 01:22:33 ban"
+Last Update: "2022-04-24 18:55:48 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -13,7 +13,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 - **🏣 愛知県一宮市 (旧尾西市)出身**  
 - **🌏 住んだことのある街: 愛知、東京、京都、大阪、奈良、香港 (ちょっとだけですが)、バーミンガム(英国)**  
 - **🛴 研究キーワード: 心理学、神経科学、fMRI、MEG、心理物理学、視覚、立体視、奥行き、3D、バーチャルリアリティ、VR、知覚、認知、手掛かり統合、形態知覚**  
-- **☕ 好きなもの: カレー (CoCo壱番屋本社は私が生まれた街にあるんです)、スパゲティ、ラーメン (神座が大好きです)、BBQ (焼肉ならワンカルビです)、飲茶、サラダ、コーヒー、烏龍茶、プーアル茶、自転車 (学生時代は輪行＆独り/友人とキャンプしながら愛知から京都、愛知から富士五湖など走破しました。ジャージー牛乳で有名な英国ジャージー島を半周したこともよい思い出です…また色々走りたいです)、旅行、観光、映画鑑賞**  
+- **☕ 好きなもの: カレー (CoCo壱番屋本社は私が生まれた街にあるんです)、スパゲティ、ラーメン (神座が大好きです)、BBQ (焼肉ならワンカルビです)、飲茶、サラダ、コーヒー、烏龍茶、プーアル茶、自転車 (学生時代は輪行＆独り/友人とキャンプしながら愛知から京都、愛知から富士五湖など走破しました。ジャージー牛乳で有名な英国ジャージー島を半周したこともよい思い出です)、旅行、観光、映画鑑賞**  
 
 ![SelfIntroduction](images/01_self_introduction.gif)
 
@@ -56,16 +56,16 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ***古典と言われるかもしれませんが、どれも決して色褪せない、とても重要な書籍です***  
 1. Gibson, J.J. (2014, original one is published in 1979). *The Ecological Approach to Visual Perception*. Routledge.  
 2. Marr, D. (2010, original one is published in 1982). *Vision: A computational investigation into the human representation and processing of visual information*. MIT press.  
-3. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
+3. Wandell, B.A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
    Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
 4. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
-5. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
+5. Gregory, R.L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
 
 ***心理学、神経科学、脳イメージング***  
 1. Kandel, E.R., Koester, J.D., Mack, S.H., Siegelbausm, S.A. eds (2021). *Principles of Neural Science*. McGraw-Hill.  
 2. Gazzaniga, M.S., Irvy, R.B., Mangun, G.R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W W Norton & Co Inc.  
 3. Huettel, S.A., Song, A.W., McCarthy, G. (2014). *Functional Magnetic Resonance Imaging*. Sinauer.  
-4. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
+4. Kriegeskorte, N., Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
 5. Palmer, S.E. (1999). *Vision Science: Photons to Phenomenology*. Bradford Books.  
 
 ***プログラミング (いくつかの本は日本語版も出ています)***

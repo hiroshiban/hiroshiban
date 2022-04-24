@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-24 01:22:44 ban"
+Last Update: "2022-04-24 18:52:35 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -58,16 +58,16 @@ Our group has been looking for people who are willing to participate in our rese
 ***Classics, but like Shakespeare, they will never fade away; we should follow them first.***  
 1. Gibson, J.J. (2014, the original one was published in 1979). *The Ecological Approach to Visual Perception*. Routledge.  
 2. Marr, D. (2010, the original one was published in 1982). *Vision: A computational investigation into the human representation and processing of visual information*. MIT press.  
-3. Wandell, B. A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
+3. Wandell, B.A. (1995). *Foundations of vision: Behavior, Neuroscience and Computation*. Sinauer Associates.  
    Publicly available now from the link [here](https://foundationsofvision.stanford.edu/).  
 4. Zeki, S. (1993). *A vision of the brain*. Blackwell scientific publications.  
-5. Gregory, R. L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
+5. Gregory, R.L. (1973). *Eye and brain: The psychology of seeing*. McGraw-Hill.  
 
 ***Psychology, neuroscience, and neuroimaging***  
 1. Kandel, E.R., Koester, J.D., Mack, S.H., Siegelbausm, S.A. eds (2021). *Principles of Neural Science*. McGraw-Hill.  
 2. Gazzaniga, M.S., Irvy, R.B., Mangun, G.R. (2018). *Cognitive Neuroscience: The Biology of the Mind*. W W Norton & Co Inc.  
 3. Huettel, S.A., Song, A.W., McCarthy, G. (2014). *Functional Magnetic Resonance Imaging*. Sinauer.  
-4. Kriegeskorte, N. and Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
+4. Kriegeskorte, N., Kreiman, G. eds. (2012). *Visual population codes: toward a common multivariate framework for cell recording and functional imaging*. MIT press.  
 5. Palmer, S.E. (1999). *Vision Science: Photons to Phenomenology*. Bradford Books.  
 
 ***Programming skills for vision science***
