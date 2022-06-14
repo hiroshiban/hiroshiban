@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-04-24 18:52:35 ban"
+Last Update: "2022-06-15 03:53:40 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -12,9 +12,9 @@ Japanese version of README.md is available from [here.](README_ja.md)
 
 - **⌚ Born on April 5th**  
 - **🏣 From Ichinomiya (Bisai) City, Aichi Prefecture, Japan**  
-- **🌏 Living/had lived: Aichi, Tokyo, Kyoto, Osaka, Nara, Hong-Kong (a little bit), and Birmingham, UK**  
+- **🌏 Living/had lived: Aichi, Tokyo, Kyoto, Osaka, Nara, Hong-Kong (a little bit), and Birmingham (UK)**  
 - **🛴 Keywords: psychology, neuroscience, fMRI, MEG, psychophysics, vision, stereopsis, depth, 3D, virtual reality, VR, perception, recognition, cue integration, object, shape**  
-- **☕ Favorites: curry (the headquarters of CoCo-Ichibanya, the most popular curry restaurant in Japan, is located in my hometown), spaghetti, ramen (Kamukura is the best to me right now), BBQ or Yakiniku (One-Karubi is the most amazing), dim sum, salad, coffee, oolong tea, pu'er tea, bicycle, traveling, sightseeing, watching movies**  
+- **☕ Favorites: curry (the headquarters of CoCo-Ichibanya, the most popular curry restaurant in Japan, is located in my hometown), spaghetti, ramen (Kamukura is the best to me right now), BBQ or Yakiniku (One-Karubi is the most amazing), Shabu-shabu (Kin-no-buta is second to none!), salad, coffee, dim sum, oolong tea, pu'er tea, bicycle, traveling, sightseeing, watching movies**  
 
 ![SelfIntroduction](images/01_self_introduction.gif)  
 
