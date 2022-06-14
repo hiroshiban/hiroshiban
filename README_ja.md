@@ -13,7 +13,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 - **🏣 愛知県一宮市 (旧尾西市)出身**  
 - **🌏 住んだことのある街: 愛知、東京、京都、大阪、奈良、香港 (ちょっとだけですが)、バーミンガム(英国)**  
 - **🛴 研究キーワード: 心理学、神経科学、fMRI、MEG、心理物理学、視覚、立体視、奥行き、3D、バーチャルリアリティ、VR、知覚、認知、手掛かり統合、形態知覚**  
-- **☕ 好きなもの: カレー (CoCo壱番屋本社は私が生まれた街にあるんです)、スパゲティ、ラーメン (神座が大好きです)、BBQ (焼肉ならワンカルビです)、飲茶、サラダ、コーヒー、烏龍茶、プーアル茶、自転車 (学生時代は輪行＆独り/友人とキャンプしながら愛知から京都、愛知から富士五湖など走破しました。ジャージー牛乳で有名な英国ジャージー島を半周したこともよい思い出です)、旅行、観光、映画鑑賞**  
+- **☕ 好きなもの: カレー (CoCo壱番屋本社は私が生まれた街にあるんです)、スパゲティ、ラーメン (神座が大好きです)、BBQ (焼肉ならワンカルビです)、飲茶&点心、サラダ、コーヒー、烏龍茶、プーアル茶、自転車 (学生時代は輪行＆独り/友人とキャンプしながら愛知から京都、愛知から富士五湖など走破しました。ジャージー牛乳で有名な英国ジャージー島を半周したこともよい思い出です)、旅行、観光、映画鑑賞**  
 
 ![SelfIntroduction](images/01_self_introduction.gif)
 
@@ -45,7 +45,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 
 #### 私たちの研究・実験にご参加いただける方々を募集しています  
 
-私たちのグループでは、こうした研究・実験にご協力者としてご参加いただける方々を随時募集しております。研究手続きは全て事前に倫理委員会の審査を経て承認を得ており、ご参加いただくみなさまのプライバシー、ご安全に最大のご配慮をさせていただきます。また、使用する機材や計測機器も全て、種々の基準を満たしたとても安全なもので、みなさまのご健康を害することはございません。どうぞご安心してお気軽にご参加ください。1回の実験の所要時間はおよそ1～2時間程度で、ご協力いただいたみなさまには規定に沿って謝金もお支払いいたします。詳細は下記をご覧ください。  
+私たちのグループでは、こうした研究・実験にご協力者としてご参加いただける方々を随時募集しております。研究手続きは全て事前に倫理委員会の審査を経て承認を得ており、ご参加いただくみなさまのプライバシー、ご安全に最大のご配慮をさせていただいております。また、使用する機材や計測機器も全て、種々の基準を満たしたとても安全なもので、みなさまのご健康を害することはございません。どうぞご安心してお気軽にご参加ください。1回の実験の所要時間はおよそ1～2時間程度で、ご協力いただいたみなさまには規定に沿って謝金もお支払いいたします。詳細は下記をご覧ください。  
 
 - **[実験参加登録システム](https://nict-cinet.sona-systems.com)**  
 - **[SONAシステム YouTubeマニュアル](https://www.youtube.com/watch?v=_1OnT2ZU6QQ&ab_channel=SonaSystems)**  
@@ -102,7 +102,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 11. Kriegeskorte, N., Simmons, W.K., Bellgowan, P.S., Baker, C.I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature Neuroscience***, 12(5), 535-540.  
 12. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in Systems Neuroscience***, 2, 4.  
 13. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
-14. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
+14. Grill-Spector, K., Henson, R., Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
 15. Roelfsema, P.R. (2006). Cortical algorithms for perceptual grouping. ***Annual Review of Neuroscience***, 29, 203-227.  
 16. Kamitani, Y., Tong, F. (2005). Decoding the visual and subjective contents of the human brain. ***Nature Neuroscience***, 8(5), 679-685.  
 17. Kourtzi, Z., Kanwisher, N. (2001). Representation of perceived object shape by the human lateral occipital complex. ***Science***, 293(5534), 1506-1509.  
