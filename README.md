@@ -104,7 +104,7 @@ Our group has been looking for people who are willing to participate in our rese
 11. Kriegeskorte, N., Simmons, W.K., Bellgowan, P.S., Baker, C.I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. ***Nature Neuroscience***, 12(5), 535-540.  
 12. Kriegeskorte, N., Mur, M., Bandettini, P.A. (2008). Representational similarity analysis-connecting the branches of systems neuroscience. ***Frontiers in Systems Neuroscience***, 2, 4.  
 13. Dumoulin, S.O., Wandell, B.A. (2008). Population receptive field estimates in human visual cortex. ***Neuroimage***, 39(2), 647-660.  
-14. Grill-Spector, K., Henson, R., & Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
+14. Grill-Spector, K., Henson, R., Martin, A. (2006). Repetition and the brain: neural models of stimulus-specific effects. ***Trends in Cognitive Sciences***, 10(1), 14-23.  
 15. Roelfsema, P.R. (2006). Cortical algorithms for perceptual grouping. ***Annual Review of Neuroscience***, 29, 203-227.  
 16. Kamitani, Y., Tong, F. (2005). Decoding the visual and subjective contents of the human brain. ***Nature Neuroscience***, 8(5), 679-685.  
 17. Kourtzi, Z., Kanwisher, N. (2001). Representation of perceived object shape by the human lateral occipital complex. ***Science***, 293(5534), 1506-1509.  
