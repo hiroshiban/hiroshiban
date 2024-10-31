@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-06-15 03:52:57 ban"
+Last Update: "2024-10-31 15:02:03 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -145,8 +145,9 @@ English version of README.md is available from [here.](https://github.com/hirosh
 2003 学士 京都大学総合人間学部基礎科学科  
 
 ***職歴***  
-2021 情報通信研究機構(NICT) 脳情報通信融合研究センター 主任研究員  
-2013 大阪大学 大学院・生命機能研究科 招へい准教授  
+2022-2023 情報通信研究機構・オープンイノベーション推進本部・ソーシャルイノベーションユニット・戦略的プログラムオフィス エキスパート職兼任  
+2021-現在 情報通信研究機構(NICT) 脳情報通信融合研究センター 主任研究員  
+2014-現在 大阪大学 大学院・生命機能研究科 招へい准教授  
 2013 情報通信研究機構(NICT) 脳情報通信融合研究センター 研究員  
 2010-2013 日本学術振興会 海外特別研究員  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(英国バーミンガム大学心理学部 研究員 (Zoe Kourtzi博士、Andrew Welchman博士))  
@@ -156,15 +157,15 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ![places](images/04_places_01.png)  
 
 ## 受賞  
-
+2023 令和5年度情報通信研究機構 部内表彰 (団体、戦略的プログラムオフィス・機構における人を対象とする研究、人を対象とする医学系研究の規定、委員会起ち上げチームの1員として)  
 2021 令和2年度情報通信研究機構 部内表彰 (団体、脳情報通信融合研究センター外部・企業連携チームの1員として)  
 2020 HKU Social Sciences Outstanding Research Output Award (Basic Research) 2018-2019 (香港、共同発表)  
-2018 Poster Presentation Award, Social and Affective Neuroscience Society (共同発表)  
+2018 Poster Presentation Award, Social and Affective Neuroscience Society (USA、共同発表)  
 2017 Best Presentation Award, Human Neuroimaging Workshop (ヒト脳機能イメージング研究会) (共同発表)  
-2017 Travel Award (Vision Science Society, Annual Conference, 2017) (共同発表)  
+2017 Travel Award (Vision Science Society, Annual Conference, 2017) (USA、共同発表)  
 2016 平成27年度情報通信研究機構 部内表彰 (団体、脳情報通信融合研究センター国際化チームの1員として)  
 2014 NICT関西３拠点合同研究会 研究奨励賞 (筆頭発表者)  
-2011 Travel Award (Vision Science Society, Annual Conference, 2011) (共同発表)  
+2011 Travel Award (Vision Science Society, Annual Conference, 2011) (USA、共同発表)  
 2007 日本視覚学会ベストプレゼンテーション賞 (筆頭発表者)  
 2006 電子情報通信学会 ヒューマンコミュニケーション賞 (筆頭発表者)  
 2004 電子情報通信学会 ヒューマンコミュニケーション賞 (筆頭発表者)  
@@ -174,7 +175,6 @@ English version of README.md is available from [here.](https://github.com/hirosh
 **Dorita HF Chang (張暁楓) 博士**, 香港大学 [Lab](https://www.changlab.hk/) [GitHub](https://github.com/dhfchang)  
 **Andrew E Welchman 博士**, ケンブリッジ大学  
 
-*完全なCVは近々公開させていただきます…*  
 
 <!--
 ## ResearchGateの個人ページへのリンク  

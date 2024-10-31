@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2022-06-15 03:53:40 ban"
+Last Update: "2024-10-31 15:02:10 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -146,8 +146,9 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 2003 BS.  Faculty of Integrated Human Studies, Kyoto University, Japan  
 
 ***Work Experience***  
-2021 Senior Researcher, CiNet, NICT, Japan  
-2013 Guest Associate Professor, Graduate School of Frontier Biosciences, Osaka University, Japan  
+2022-2023 Expert, Strategic Program Produce Office, Open Innovation Promotion Headquarters, NICT, Japan
+2021-now Senior Researcher, CiNet, NICT, Japan  
+2014-now Guest Associate Professor, Graduate School of Frontier Biosciences, Osaka University, Japan  
 2013 Researcher, CiNet, NICT, Japan  
 2010-2013 JSPS Research Fellow to Study Abroad,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School of Psychology, University of Birmingham, UK (Dr Zoe Kourtzi and Dr Andrew Welchman)  
@@ -160,14 +161,15 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 
 ## Awards  
 
+2023 NICT In-house Award (as a member of the team to establish ethics committies for human and/or medical research at NICT)  
 2021 NICT In-house Award (as a member of the team to promote external/corporate collaborations)  
 2020 HKU Social Sciences Outstanding Research Output Award (Basic Research) 2018-2019 (Hong-Kong, collaboration)  
-2018 Poster Presentation Award, Social and Affective Neuroscience Society 2018 (collaboration)  
+2018 Poster Presentation Award, Social and Affective Neuroscience Society 2018 (USA, collaboration)  
 2017 Best Presentation Award, Human Neuroimaging Workshop (collaboration)  
-2017 Travel Award (Vision Science Society, Annual Conference, 2017) (collaboration)  
+2017 Travel Award (Vision Science Society, Annual Conference, 2017) (USA, collaboration)  
 2016 NICT In-house Award (as a member of the team to promote internationalization)  
 2014 NICT Kansai 3 sites Joint Research Meeting, Research Encouragement Award (the first presenter)  
-2011 Travel Award (Vision Science Society, Annual Conference, 2011) (collaboration)  
+2011 Travel Award (Vision Science Society, Annual Conference, 2011) (USA, collaboration)  
 2007 Best Presentation Award, Japan Vision Science Society (the first presenter)  
 2006 Human Communication Award, The Institute of Electronics, Information and Communication Engineers, Japan (the first presenter)  
 2004 Human Communication Award, The Institute of Electronics, Information and Communication Engineers, Japan (the first presenter)  
@@ -178,8 +180,6 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 **Dr Dorita HF Chang**, University of Hong-Kong [Lab](https://www.changlab.hk/) [GitHub](https://github.com/dhfchang)  
 **Dr Andrew E Welchman**, Cambridge University  
 
-
-*My full CV is to be uploaded and available soon, maybe...*  
 
 <!--
 ## Link to the ResearchGate personal page  
