@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2024-10-31 15:06:00 ban"
+Last Update: "2025-09-17 07:40:56 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -136,6 +136,13 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ![fMRI_analysis_02](images/03_analysis_02_children.png)  
 *子どもが奥行き手掛かり(両眼視差と運動視差など)を大人のように統合できるようになるには、10.5歳を過ぎた頃の脳の視覚野、V3B/KOの変化(発達)が必要であることが示されました(Dekker, Ban, et al., 2015より改変)。眼筋や輻輳角の調整機能など、「外から見える」立体視能力は6歳頃に完成するといわれてきましたが、この研究結果は、6歳を経た後も子どもの立体視能力は十分ではなく、大人と同じようには機能せず、脳がまだ発達を続けていることを示しています。*  
 
+## 特許  
+
+1. 鏡システム (日本 2024).  
+2. 酔い評価システム、および酔い評価方法 (日本 2024, 米国 2025, 中国 2025).  
+
+その他、数件の知財を出願準備中です。  
+
 
 ## 略歴  
 
@@ -145,6 +152,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 2003 学士 京都大学総合人間学部基礎科学科  
 
 ***職歴***  
+2023-2025 日-米(NSF&NIH)国際共同研究プロジェクトの運営スタッフ  
 2022-2023 情報通信研究機構・オープンイノベーション推進本部・  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ソーシャルイノベーションユニット・戦略的プログラムオフィス エキスパート職兼任  
 2021-現在 情報通信研究機構(NICT) 脳情報通信融合研究センター 主任研究員  
@@ -158,7 +166,8 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ![places](images/04_places_01.png)  
 
 ## 受賞  
-2023 令和5年度情報通信研究機構 部内表彰 (団体、戦略的プログラムオフィス・機構における人を対象とする研究、人を対象とする医学系研究の規定、委員会起ち上げチームの1員として)  
+2025 日本視覚学会ベストプレゼンテーション賞 (共同発表)  
+2023 令和5年度情報通信研究機構 部内表彰 (団体、戦略的プログラムオフィス・機構における人を対象とする研究、人を対象とする医学系研究の規程、委員会起ち上げチームの1員として)  
 2021 令和2年度情報通信研究機構 部内表彰 (団体、脳情報通信融合研究センター外部・企業連携チームの1員として)  
 2020 HKU Social Sciences Outstanding Research Output Award (Basic Research) 2018-2019 (香港、共同発表)  
 2018 Poster Presentation Award, Social and Affective Neuroscience Society (USA、共同発表)  
