@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2025-09-17 07:37:43 ban"
+Last Update: "2025-09-17 07:44:59 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -153,7 +153,7 @@ Some more others are now in preparation.
 2003 BS.  Faculty of Integrated Human Studies, Kyoto University, Japan  
 
 ***Work Experience***  
-2023-2025 Administrative staff for one of the Japan-US (NSF & NIH) collaborative research funds.  
+2023-2025 Administrative staff for one of the Japan(NICT)-US(NSF&NIH) collaborative research funds.  
 2022-2023 Expert, Strategic Program Produce Office,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open Innovation Promotion Headquarters, NICT, Japan  
 2021-now Senior Researcher, CiNet, NICT, Japan  
