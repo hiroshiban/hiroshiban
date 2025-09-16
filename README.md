@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2024-10-31 15:05:47 ban"
+Last Update: "2025-09-17 07:29:13 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -137,6 +137,12 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 ![fMRI_analysis_02](images/03_analysis_02_children.png)  
 *Some change (development) in the visual area, V3B/KO, on the occipital/temporal cortex, after the age of 10.5 years, is necessary for children to be able to integrate depth cues like adults (e.g. binocular disparity and motion parallax). It has been said that binocular-stereoacuity, including the ability to adjust eye muscles and convergence angles, is completed around the age of 6. However, our results show that even after the age of 6, children's binocular-stereoacuity is not sufficient and is still under developing, taking longer period than previously expected (modified from Dekker, Ban, et al., 2015).*  
 
+## Patents  
+
+1. Mirror system. (Japan, 2024).  
+2. Motion sickness evaluation systems and methods. (Japan 2024, USA 2025, China 2025).  
+Some more others are now in preparation.  
+
 
 ## Brief Biography  
 
@@ -146,6 +152,7 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 2003 BS.  Faculty of Integrated Human Studies, Kyoto University, Japan  
 
 ***Work Experience***  
+2023-2025 Administrative staff for one of the Japan-US (NSF & NIH) collaborative research funds.  
 2022-2023 Expert, Strategic Program Produce Office,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open Innovation Promotion Headquarters, NICT, Japan  
 2021-now Senior Researcher, CiNet, NICT, Japan  
@@ -162,6 +169,7 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 
 ## Awards  
 
+2025 Best Presentation Award, Japan Vision Science Society (co-presenter)  
 2023 NICT In-house Award (as a member of the team to establish ethics committies for human and/or medical research at NICT)  
 2021 NICT In-house Award (as a member of the team to promote external/corporate collaborations)  
 2020 HKU Social Sciences Outstanding Research Output Award (Basic Research) 2018-2019 (Hong-Kong, collaboration)  
