@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2025-09-17 07:49:07 ban"
+Last Update: "2026-01-20 14:48:15 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -138,10 +138,11 @@ English version of README.md is available from [here.](https://github.com/hirosh
 
 ## 特許  
 
-1. 鏡システム (日本 2024).  
-2. 酔い評価システム、および酔い評価方法 (日本 2024, 米国 2025, 中国 2025).  
-
-その他、数件の知財を出願準備中です。  
+1. 鏡システム (日本 2024. 特願2024-159456).  
+2. 酔い評価システム、および酔い評価方法 (日本 2024).  
+3. Motion sickness evaluation systems and methods. (米国 2025).  
+4. Motion sickness evaluation systems and methods. (中国 2025).  
+5. プログラム(系列データの遷移確率特徴を用いた生体認証システム、方法、およびプログラム) (日本 2025. 特願2025-281880)  
 
 
 ## 略歴  
@@ -166,6 +167,7 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ![places](images/04_places_01.png)  
 
 ## 受賞  
+2026 日本基礎心理学会優秀発表賞 (共同発表)  
 2025 日本視覚学会ベストプレゼンテーション賞 (共同発表)  
 2023 令和5年度情報通信研究機構 部内表彰 (団体、戦略的プログラムオフィス・機構における人を対象とする研究、人を対象とする医学系研究の規程、委員会起ち上げチームの1員として)  
 2021 令和2年度情報通信研究機構 部内表彰 (団体、脳情報通信融合研究センター外部・企業連携チームの1員として)  

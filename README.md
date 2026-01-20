@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2025-09-17 07:47:47 ban"
+Last Update: "2026-01-20 14:45:54 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -139,10 +139,11 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 
 ## Patents  
 
-1. Mirror system. (Japan, 2024).  
-2. Motion sickness evaluation systems and methods. (Japan 2024, USA 2025, China 2025).  
-
-Some more others are now in preparation.  
+1. Mirror system. (Japan, 2024. 特願2024-159456).  
+2. Motion sickness evaluation systems and methods. (Japan 2024).  
+3. Motion sickness evaluation systems and methods. (USA 2025).  
+4. Motion sickness evaluation systems and methods. (China 2025).  
+5. Authentication system, method, and program using transition probability features of sequence data (Japan, 2025. 特願2025-281880)  
 
 
 ## Brief Biography  
@@ -170,6 +171,7 @@ Some more others are now in preparation.
 
 ## Awards  
 
+2026 Excellent Presentation Award, The Japanese Society for Psychonomic Science (co-presenter)  
 2025 Best Presentation Award, Japan Vision Science Society (co-presenter)  
 2023 NICT In-house Award (as a member of the team to establish ethics committies for human and/or medical research at NICT)  
 2021 NICT In-house Award (as a member of the team to promote external/corporate collaborations)  
