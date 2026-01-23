@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2026-01-20 14:48:15 ban"
+Last Update: "2026-01-23 13:18:22 ban"
 </div>
 
 ## はじめまして 👋 番浩志(ばんひろし)と申します。心理学・神経科学の研究者として日本の研究機関で働いております。  
@@ -139,9 +139,9 @@ English version of README.md is available from [here.](https://github.com/hirosh
 ## 特許  
 
 1. 鏡システム (日本 2024. 特願2024-159456).  
-2. 酔い評価システム、および酔い評価方法 (日本 2024).  
-3. Motion sickness evaluation systems and methods. (米国 2025).  
-4. Motion sickness evaluation systems and methods. (中国 2025).  
+2. 酔い評価システム、および酔い評価方法 (日本 2024. 特願2024-143192).  
+3. SICKNESS ASSESSMENT SYSTEM AND SICKNESS ASSESSMENT METHOD. (米国 2025).  
+4. 晕动评价系统及晕动评价方法. Motion sickness evaluation systems and methods. (中国 2025. 申请号202511134140.2).  
 5. プログラム(系列データの遷移確率特徴を用いた生体認証システム、方法、およびプログラム) (日本 2025. 特願2025-281880)  
 
 
