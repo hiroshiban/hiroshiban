@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2026-01-23 13:18:15 ban"
+Last Update: "2026-01-27 13:54:29 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -141,9 +141,9 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 
 1. Mirror system. (Japan, 2024. 特願2024-159456).  
 2. Motion sickness evaluation systems and methods. (Japan 2024. 特願2024-143192).  
-3. SICKNESS ASSESSMENT SYSTEM AND SICKNESS ASSESSMENT METHOD. (USA 2025).  
+3. SICKNESS ASSESSMENT SYSTEM AND SICKNESS ASSESSMENT METHOD. (USA 2025. 19/304,631).  
 4. 晕动评价系统及晕动评价方法. Motion sickness evaluation systems and methods. (China 2025. 申请号202511134140.2).  
-5. Authentication system, method, and program using transition probability features of sequence data (Japan, 2025. 特願2025-281880)  
+5. Program (Authentication system, method, and program using transition probability features of sequence data). (Japan, 2025. 特願2025-281880).  
 
 
 ## Brief Biography  
