@@ -1,6 +1,6 @@
 <div align="right">
 Created    : "2022-04-12 11:16:23 ban"<br>
-Last Update: "2026-01-27 13:54:29 ban"
+Last Update: "2026-06-05 14:46:21 ban"
 </div>
 
 ## Hi there. 👋 I am Hiroshi Ban, a psychologist/neuroscientist working at a research institute in Japan.  
@@ -171,7 +171,8 @@ Please also see: [Deep thinking](https://www.nature.com/articles/nn0412-506)
 
 ## Awards  
 
-2026 Excellent Presentation Award, The Japanese Society for Psychonomic Science (co-presenter)  
+2026 NICT In-house Award (as a member of the team to install an OPM system to CiNet)  
+2025 Excellent Presentation Award, The Japanese Society for Psychonomic Science (co-presenter)  
 2025 Best Presentation Award, Japan Vision Science Society (co-presenter)  
 2023 NICT In-house Award (as a member of the team to establish ethics committies for human and/or medical research at NICT)  
 2021 NICT In-house Award (as a member of the team to promote external/corporate collaborations)  
